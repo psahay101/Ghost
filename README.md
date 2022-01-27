@@ -7,4 +7,4 @@
 ### 3. Type make
 ### 4. Type ./nn11
 ### 5. Enter 1 X 16 inputs 
-### 6. This will an output in the format of 1 X 4
+### 6. This will throw an output in the format of 1 X 4
